@@ -16,8 +16,7 @@ Vue.use(require('vue-svg'),{
 });
 ```
 
-You will need a [grunt](https://www.npmjs.com/package/grunt-svg-sprite) or gulp task to concatenate you individual svgs into a single file. Sometimes these tasks will add a prefix to namespace the individual svgs. Just add this prefix to the options and use the individual file name in the directive as follows:
-
+You will need a [grunt](https://www.npmjs.com/package/grunt-svg-sprite) or gulp task to concatenate your individual svgs into a single file. Sometimes these tasks will add a prefix to namespace the individual svgs. Just add this prefix to the options and use the individual file name in the directive as follows:
 ```
 <div v-svg="close-icon"></div>
 ```

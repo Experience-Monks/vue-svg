@@ -2,7 +2,7 @@
 
 [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)
 
-A Vue directive that will add a svg from an svg sprite sheet to an element.
+A Vue directive that will add a svg from a svg sprite sheet to an element.
 
 ## Usage
 

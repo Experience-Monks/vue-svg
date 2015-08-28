@@ -1,0 +1,38 @@
+{
+  "name": "vue-svg",
+  "version": "1.0.0",
+  "description": "Vue directive that will add a svg from an svg sprite sheet to an element.",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Brendan Neufeld",
+    "email": "brendanjneufeld@gmail.com",
+    "url": "https://github.com/BrenanNeufeld"
+  },
+  "dependencies": {
+    "dom-select": "0.0.0",
+    "prepend-child": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "vue,",
+    "vuejs,",
+    "plugin,",
+    "svg,",
+    "sprite,",
+    "svg-sprite,",
+    "directive,",
+    "vue-directive"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Jam3/vue-svg.git"
+  },
+  "homepage": "https://github.com/Jam3/vue-svg",
+  "bugs": {
+    "url": "https://github.com/Jam3/vue-svg/issues"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "name": "vue-svg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Vue directive that will add a svg from an svg sprite sheet to an element.",
   "main": "index.js",
   "license": "MIT",
